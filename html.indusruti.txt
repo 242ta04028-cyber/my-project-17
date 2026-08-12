@@ -1,0 +1,13 @@
+<html>
+<head>
+    <title>html ordered list</title>
+</head>
+<body>
+ <h2>good morning</h2>
+<ol>
+<li> hello every one</li>
+<li>todays topic</li>
+<li> HTML</li>
+</ol>
+</body>
+</html>
